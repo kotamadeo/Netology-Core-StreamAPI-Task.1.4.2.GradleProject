@@ -1,0 +1,5 @@
+rootProject.name = 'Stream_API-Task_1_4_2-Gradle_project'
+include 'database'
+include 'service'
+include 'web-api'
+
